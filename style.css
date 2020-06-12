@@ -30,6 +30,8 @@ form button {
   border: none;
   background: white;
   outline: none;
+  -webkit-border-radius: 0;
+  border-radius: 0;
 }
 
 form button {
